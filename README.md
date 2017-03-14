@@ -1,5 +1,7 @@
 # circle-menu-for-omnis
-Experimental library for creating a circular menu for Omnis
+Experimental library for creating a circular menu for Omnis.
+
+Library was written in Studio 6.0.3
 
 I've been experimenting with different kinds of interfaces/widgets that can be used in Omnis Studio to spiff things up. I had heard of the concept of a circular menu several years ago and it always intrigued me.
 
