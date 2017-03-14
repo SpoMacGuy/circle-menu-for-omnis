@@ -6,6 +6,7 @@ I've been experimenting with different kinds of interfaces/widgets that can be u
 The idea of click on a button and instead of having a dropdown list/menu, instead the menu items out in a circle around the clicked button.
 
 http://www.jqueryscript.net/images/Animated-Circle-Menu-with-jQuery-CSS3.jpg
+
 http://zikes.github.io/circle-menu/examples/
 
 Notes on how to implement are in the library and is just a sample to spur discussion.
